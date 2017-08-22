@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="show_pop">Show Popular Movies</string>
+    <string name="show_top">Show Top Rated Movies</string>
+    <string name="show_fav">Show Favorites</string>
+    <string name="error">Error: Internet connection is needed</string>
+</resources>

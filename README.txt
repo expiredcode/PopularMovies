@@ -1,0 +1,1 @@
+API key is in \app\src\main\java\com\example\android\popularmovies\NetworkUtils.java
